@@ -1,0 +1,5001 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<doc><entry>
+   <order_id>10353</order_id>
+      <unit_price>210.80</unit_price>
+   <quantity>50</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>13</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>25</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$360.63</freight>
+   <ship_name>Piccolo und mehr</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Geislweg 14 Salzburg 5020 Austria</ship_address>
+   <employee_id>7</employee_id>
+   <name>King Robert</name>
+<last_name>King</last_name>
+   <first_name>Robert</first_name>
+         <birth_day>5</birth_day>
+<birth_month>29</birth_month>
+<birth_year>1960</birth_year>
+   <hire_day>1</hire_day>
+<hire_month>2</hire_month>
+<hire_year>1994</hire_year>
+   <address>Edgeham Hollow&#13;&#10;Winchester Way</address>
+   <city>London</city>
+   <region/>
+   <postal_code>RG1 9SP</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-5598</employee_phone>            
+   <emp_address>Edgeham Hollow&#13;&#10;Winchester Way London  RG1 9SP UK</emp_address>
+      <product_name>Côte de Blaye</product_name>
+   <supplier_id>18</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>12 - 75 cl bottles</quantity_per_unit>
+      <units_in_stock>17</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>3583.6</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10430</order_id>
+      <unit_price>44.00</unit_price>
+   <quantity>70</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>30</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>3</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$458.78</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Raclette Courdavault</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>79</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>3476</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10398</order_id>
+      <unit_price>19.20</unit_price>
+   <quantity>120</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>30</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>9</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$89.16</freight>
+   <ship_name>Save-a-lot Markets</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>187 Suffolk Ln. Boise 83720 USA</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Pâté chinois</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>24 boxes x 2 pies</quantity_per_unit>
+      <units_in_stock>115</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>2208</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10402</order_id>
+      <unit_price>35.10</unit_price>
+   <quantity>65</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>2</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>10</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$67.88</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Vegie-spread</product_name>
+   <supplier_id>7</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>15 - 625 g jars</quantity_per_unit>
+      <units_in_stock>24</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>842.4</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10359</order_id>
+      <unit_price>27.20</unit_price>
+   <quantity>80</quantity>
+   <discount>0.05</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>21</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>26</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$288.43</freight>
+   <ship_name>Seven Seas Imports</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>90 Wadhurst Rd. London OX15 4NB UK</ship_address>
+   <employee_id>5</employee_id>
+   <name>Buchanan Steven</name>
+<last_name>Buchanan</last_name>
+   <first_name>Steven</first_name>
+         <birth_day>3</birth_day>
+<birth_month>4</birth_month>
+<birth_year>1955</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>14 Garrett Hill</address>
+   <city>London</city>
+   <region/>
+   <postal_code>SW1 8JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-4848</employee_phone>            
+   <emp_address>14 Garrett Hill London  SW1 8JR UK</emp_address>
+      <product_name>Camembert Pierrot</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>15 - 300 g rounds</quantity_per_unit>
+      <units_in_stock>19</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>516.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10440</order_id>
+      <unit_price>22.80</unit_price>
+   <quantity>90</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>10</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>28</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$86.53</freight>
+   <ship_name>Save-a-lot Markets</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>187 Suffolk Ln. Boise 83720 USA</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Sirop d'érable</product_name>
+   <supplier_id>29</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>24 - 500 ml bottles</quantity_per_unit>
+      <units_in_stock>113</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>25</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>2576.4</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10441</order_id>
+      <unit_price>35.10</unit_price>
+   <quantity>50</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>10</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>3</shipped_day>
+<shipped_month>14</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$73.02</freight>
+   <ship_name>Old World Delicatessen</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>2743 Bering St. Anchorage 99508 USA</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Schoggi Schokolade</product_name>
+   <supplier_id>11</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>100 - 100 g pieces</quantity_per_unit>
+      <units_in_stock>49</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1719.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10361</order_id>
+      <unit_price>27.20</unit_price>
+   <quantity>55</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>22</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>3</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$183.17</freight>
+   <ship_name>QUICK-Stop</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Taucherstraße 10 Cunewalde 01307 Germany</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Camembert Pierrot</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>15 - 300 g rounds</quantity_per_unit>
+      <units_in_stock>19</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>516.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10392</order_id>
+      <unit_price>28.80</unit_price>
+   <quantity>50</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>24</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>1</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$122.46</freight>
+   <ship_name>Piccolo und mehr</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Geislweg 14 Salzburg 5020 Austria</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Gudbrandsdalsost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 kg pkg.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>748.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10408</order_id>
+      <unit_price>39.40</unit_price>
+   <quantity>35</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>8</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>14</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$11.26</freight>
+   <ship_name>Folies gourmandes</ship_name>
+               <ship_country>France</ship_country>   <ship_address>184, chaussée de Tournai Lille 59000 France</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Tarte au sucre</product_name>
+   <supplier_id>29</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>48 pies</quantity_per_unit>
+      <units_in_stock>17</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>669.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10429</order_id>
+      <unit_price>35.10</unit_price>
+   <quantity>35</quantity>
+   <discount>0.25</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>29</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>7</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$56.63</freight>
+   <ship_name>Hungry Owl All-Night Grocers</ship_name>
+               <ship_country>Ireland</ship_country>   <ship_address>8 Johnstown Road Cork  Ireland</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Vegie-spread</product_name>
+   <supplier_id>7</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>15 - 625 g jars</quantity_per_unit>
+      <units_in_stock>24</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>842.4</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10372</order_id>
+      <unit_price>27.80</unit_price>
+   <quantity>42</quantity>
+   <discount>0.25</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>4</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>9</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$890.78</freight>
+   <ship_name>Queen Cozinha</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Alameda dos Canàrios, 891 São Paulo 05487-020 Brazil</ship_address>
+   <employee_id>5</employee_id>
+   <name>Buchanan Steven</name>
+<last_name>Buchanan</last_name>
+   <first_name>Steven</first_name>
+         <birth_day>3</birth_day>
+<birth_month>4</birth_month>
+<birth_year>1955</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>14 Garrett Hill</address>
+   <city>London</city>
+   <region/>
+   <postal_code>SW1 8JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-4848</employee_phone>            
+   <emp_address>14 Garrett Hill London  SW1 8JR UK</emp_address>
+      <product_name>Mozzarella di Giovanni</product_name>
+   <supplier_id>14</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>24 - 200 g pkgs.</quantity_per_unit>
+      <units_in_stock>14</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>389.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10388</order_id>
+      <unit_price>26.20</unit_price>
+   <quantity>40</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>19</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>20</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$34.86</freight>
+   <ship_name>Seven Seas Imports</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>90 Wadhurst Rd. London OX15 4NB UK</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Perth Pasties</product_name>
+   <supplier_id>24</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>48 pieces</quantity_per_unit>
+      <units_in_stock>0</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>yes</discontinued>
+   <product_in_stock_cost>0</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10401</order_id>
+      <unit_price>17.20</unit_price>
+   <quantity>60</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>1</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>10</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$12.51</freight>
+   <ship_name>Rattlesnake Canyon Grocery</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>2817 Milton Dr. Albuquerque 87110 USA</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Fløtemysost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 - 500 g pkgs.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>447.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10368</order_id>
+      <unit_price>26.60</unit_price>
+   <quantity>35</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>29</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>2</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$101.95</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Wimmers gute Semmelknödel</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>20 bags x 4 pieces</quantity_per_unit>
+      <units_in_stock>22</units_in_stock>
+   <units_on_order>80</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>585.2</product_in_stock_cost>
+   <product_order_cost>2128</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10423</order_id>
+      <unit_price>44.00</unit_price>
+   <quantity>20</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>23</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>24</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$24.50</freight>
+   <ship_name>Gourmet Lanchonetes</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Av. Brasil, 442 Campinas 04876-786 Brazil</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Raclette Courdavault</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>79</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>3476</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10373</order_id>
+      <unit_price>17.20</unit_price>
+   <quantity>50</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>5</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>11</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$124.12</freight>
+   <ship_name>Hungry Owl All-Night Grocers</ship_name>
+               <ship_country>Ireland</ship_country>   <ship_address>8 Johnstown Road Cork  Ireland</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Fløtemysost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 - 500 g pkgs.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>447.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10433</order_id>
+      <unit_price>30.40</unit_price>
+   <quantity>28</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>3</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>3</shipped_day>
+<shipped_month>4</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$73.83</freight>
+   <ship_name>Princesa Isabel Vinhos</ship_name>
+               <ship_country>Portugal</ship_country>   <ship_address>Estrada da saúde n. 58 Lisboa 1756 Portugal</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Gnocchi di nonna Alice</product_name>
+   <supplier_id>26</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>24 - 250 g pkgs.</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>10</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>638.4</product_in_stock_cost>
+   <product_order_cost>304</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10442</order_id>
+      <unit_price>13.60</unit_price>
+   <quantity>60</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>11</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>18</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$47.94</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Louisiana Hot Spiced Okra</product_name>
+   <supplier_id>2</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>24 - 8 oz jars</quantity_per_unit>
+      <units_in_stock>4</units_in_stock>
+   <units_on_order>100</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>54.4</product_in_stock_cost>
+   <product_order_cost>1360</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10397</order_id>
+      <unit_price>42.40</unit_price>
+   <quantity>18</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>27</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>2</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$60.26</freight>
+   <ship_name>Princesa Isabel Vinhos</ship_name>
+               <ship_country>Portugal</ship_country>   <ship_address>Estrada da saúde n. 58 Lisboa 1756 Portugal</ship_address>
+   <employee_id>5</employee_id>
+   <name>Buchanan Steven</name>
+<last_name>Buchanan</last_name>
+   <first_name>Steven</first_name>
+         <birth_day>3</birth_day>
+<birth_month>4</birth_month>
+<birth_year>1955</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>14 Garrett Hill</address>
+   <city>London</city>
+   <region/>
+   <postal_code>SW1 8JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-4848</employee_phone>            
+   <emp_address>14 Garrett Hill London  SW1 8JR UK</emp_address>
+      <product_name>Manjimup Dried Apples</product_name>
+   <supplier_id>24</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>50 - 300 g pkgs.</quantity_per_unit>
+      <units_in_stock>20</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>848</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10403</order_id>
+      <unit_price>10.20</unit_price>
+   <quantity>70</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>3</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>9</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$73.79</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Chocolade</product_name>
+   <supplier_id>22</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>10 pkgs.</quantity_per_unit>
+      <units_in_stock>15</units_in_stock>
+   <units_on_order>70</units_on_order>
+   <reorder_level>25</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>153</product_in_stock_cost>
+   <product_order_cost>714</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10410</order_id>
+      <unit_price>44.00</unit_price>
+   <quantity>16</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>10</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>15</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$2.40</freight>
+   <ship_name>Bottom-Dollar Markets</ship_name>
+               <ship_country>Canada</ship_country>   <ship_address>23 Tsawassen Blvd. Tsawassen T2F 8M4 Canada</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Raclette Courdavault</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>79</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>3476</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10390</order_id>
+      <unit_price>27.80</unit_price>
+   <quantity>24</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>23</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>26</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$126.38</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Mozzarella di Giovanni</product_name>
+   <supplier_id>14</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>24 - 200 g pkgs.</quantity_per_unit>
+      <units_in_stock>14</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>389.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10427</order_id>
+      <unit_price>18.60</unit_price>
+   <quantity>35</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>27</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>3</shipped_day>
+<shipped_month>3</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$31.29</freight>
+   <ship_name>Piccolo und mehr</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Geislweg 14 Salzburg 5020 Austria</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Tofu</product_name>
+   <supplier_id>6</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>40 - 100 g pkgs.</quantity_per_unit>
+      <units_in_stock>35</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>651</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10383</order_id>
+      <unit_price>30.40</unit_price>
+   <quantity>20</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>16</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>18</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$34.24</freight>
+   <ship_name>Around the Horn</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>Brook Farm&#13;&#10;Stratford St. Mary Colchester CO7 6JX UK</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Gnocchi di nonna Alice</product_name>
+   <supplier_id>26</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>24 - 250 g pkgs.</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>10</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>638.4</product_in_stock_cost>
+   <product_order_cost>304</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10396</order_id>
+      <unit_price>27.80</unit_price>
+   <quantity>21</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>27</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>6</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$135.35</freight>
+   <ship_name>Frankenversand</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Berliner Platz 43 München 80805 Germany</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Mozzarella di Giovanni</product_name>
+   <supplier_id>14</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>24 - 200 g pkgs.</quantity_per_unit>
+      <units_in_stock>14</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>389.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10419</order_id>
+      <unit_price>28.80</unit_price>
+   <quantity>20</quantity>
+   <discount>0.05</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>20</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>30</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$137.35</freight>
+   <ship_name>Richter Supermarkt</ship_name>
+               <ship_country>Switzerland</ship_country>   <ship_address>Starenweg 5 Genève 1204 Switzerland</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Gudbrandsdalsost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 kg pkg.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>748.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10356</order_id>
+      <unit_price>28.80</unit_price>
+   <quantity>20</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>18</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>27</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$36.71</freight>
+   <ship_name>Die Wandernde Kuh</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Adenauerallee 900 Stuttgart 70563 Germany</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Gudbrandsdalsost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 kg pkg.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>748.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10369</order_id>
+      <unit_price>30.40</unit_price>
+   <quantity>18</quantity>
+   <discount>0.25</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>2</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>9</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$195.68</freight>
+   <ship_name>Split Rail Beer &amp; Ale</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>P.O. Box 555 Lander 82520 USA</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Gnocchi di nonna Alice</product_name>
+   <supplier_id>26</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>24 - 250 g pkgs.</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>10</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>638.4</product_in_stock_cost>
+   <product_order_cost>304</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10350</order_id>
+      <unit_price>28.80</unit_price>
+   <quantity>18</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>11</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>3</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$64.19</freight>
+   <ship_name>La maison d'Asie</ship_name>
+               <ship_country>France</ship_country>   <ship_address>1 rue Alsace-Lorraine Toulouse 31000 France</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Gudbrandsdalsost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 kg pkg.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>748.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10404</order_id>
+      <unit_price>16.00</unit_price>
+   <quantity>30</quantity>
+   <discount>0.05</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>3</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>8</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$155.97</freight>
+   <ship_name>Magazzini Alimentari Riuniti</ship_name>
+               <ship_country>Italy</ship_country>   <ship_address>Via Ludovico il Moro 22 Bergamo 24100 Italy</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Maxilaku</product_name>
+   <supplier_id>23</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>24 - 50 g pkgs.</quantity_per_unit>
+      <units_in_stock>10</units_in_stock>
+   <units_on_order>60</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>160</product_in_stock_cost>
+   <product_order_cost>960</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10400</order_id>
+      <unit_price>16.00</unit_price>
+   <quantity>30</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>1</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>16</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$83.93</freight>
+   <ship_name>Eastern Connection</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>35 King George London WX3 6FW UK</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Maxilaku</product_name>
+   <supplier_id>23</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>24 - 50 g pkgs.</quantity_per_unit>
+      <units_in_stock>10</units_in_stock>
+   <units_on_order>60</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>160</product_in_stock_cost>
+   <product_order_cost>960</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10443</order_id>
+      <unit_price>36.40</unit_price>
+   <quantity>12</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>12</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>14</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$13.95</freight>
+   <ship_name>Reggiani Caseifici</ship_name>
+               <ship_country>Italy</ship_country>   <ship_address>Strada Provinciale 124 Reggio Emilia 42100 Italy</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Rössle Sauerkraut</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>25 - 825 g cans</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>yes</discontinued>
+   <product_in_stock_cost>946.4</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10376</order_id>
+      <unit_price>10.00</unit_price>
+   <quantity>42</quantity>
+   <discount>0.05</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>9</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>13</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$20.39</freight>
+   <ship_name>Mère Paillarde</ship_name>
+               <ship_country>Canada</ship_country>   <ship_address>43 rue St. Laurent Montréal H1J 1C3 Canada</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Gorgonzola Telino</product_name>
+   <supplier_id>14</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>12 - 100 g pkgs</quantity_per_unit>
+      <units_in_stock>0</units_in_stock>
+   <units_on_order>70</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>0</product_in_stock_cost>
+   <product_order_cost>700</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10384</order_id>
+      <unit_price>27.20</unit_price>
+   <quantity>15</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>16</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>20</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$168.64</freight>
+   <ship_name>Berglunds snabbköp</ship_name>
+               <ship_country>Sweden</ship_country>   <ship_address>Berguvsvägen  8 Luleå S-958 22 Sweden</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Camembert Pierrot</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>15 - 300 g rounds</quantity_per_unit>
+      <units_in_stock>19</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>516.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10365</order_id>
+      <unit_price>16.80</unit_price>
+   <quantity>24</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>27</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>2</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$22.00</freight>
+   <ship_name>Antonio Moreno Taquería</ship_name>
+               <ship_country>Mexico</ship_country>   <ship_address>Mataderos  2312 México D.F. 05023 Mexico</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Queso Cabrales</product_name>
+   <supplier_id>5</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>1 kg pkg.</quantity_per_unit>
+      <units_in_stock>22</units_in_stock>
+   <units_on_order>30</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>369.6</product_in_stock_cost>
+   <product_order_cost>504</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10405</order_id>
+      <unit_price>8.00</unit_price>
+   <quantity>50</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>6</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>22</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$34.82</freight>
+   <ship_name>LINO-Delicateses</ship_name>
+               <ship_country>Venezuela</ship_country>   <ship_address>Ave. 5 de Mayo Porlamar I. de Margarita 4980 Venezuela</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Aniseed Syrup</product_name>
+   <supplier_id>1</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>12 - 550 ml bottles</quantity_per_unit>
+      <units_in_stock>13</units_in_stock>
+   <units_on_order>70</units_on_order>
+   <reorder_level>25</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>104</product_in_stock_cost>
+   <product_order_cost>560</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10382</order_id>
+      <unit_price>8.00</unit_price>
+   <quantity>50</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>13</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>16</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$94.77</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Longlife Tofu</product_name>
+   <supplier_id>4</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>4</units_in_stock>
+   <units_on_order>20</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>32</product_in_stock_cost>
+   <product_order_cost>160</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10411</order_id>
+      <unit_price>44.00</unit_price>
+   <quantity>9</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>10</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>21</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$23.65</freight>
+   <ship_name>Bottom-Dollar Markets</ship_name>
+               <ship_country>Canada</ship_country>   <ship_address>23 Tsawassen Blvd. Tsawassen T2F 8M4 Canada</ship_address>
+   <employee_id>9</employee_id>
+   <name>Dodsworth Anne</name>
+<last_name>Dodsworth</last_name>
+   <first_name>Anne</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1969</birth_year>
+   <hire_day>11</hire_day>
+<hire_month>15</hire_month>
+<hire_year>1994</hire_year>
+   <address>7 Houndstooth Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>WG2 7LT</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-4444</employee_phone>            
+   <emp_address>7 Houndstooth Rd. London  WG2 7LT UK</emp_address>
+      <product_name>Raclette Courdavault</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>79</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>3476</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10354</order_id>
+      <unit_price>99.00</unit_price>
+   <quantity>4</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>14</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>20</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$53.80</freight>
+   <ship_name>Pericles Comidas clásicas</ship_name>
+               <ship_country>Mexico</ship_country>   <ship_address>Calle Dr. Jorge Cash 321 México D.F. 05033 Mexico</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Thüringer Rostbratwurst</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>50 bags x 30 sausgs.</quantity_per_unit>
+      <units_in_stock>0</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>yes</discontinued>
+   <product_in_stock_cost>0</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10394</order_id>
+      <unit_price>39.40</unit_price>
+   <quantity>10</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>25</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>3</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$30.34</freight>
+   <ship_name>Hungry Coyote Import Store</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>City Center Plaza&#13;&#10;516 Main St. Elgin 97827 USA</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Tarte au sucre</product_name>
+   <supplier_id>29</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>48 pies</quantity_per_unit>
+      <units_in_stock>17</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>669.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10437</order_id>
+      <unit_price>26.20</unit_price>
+   <quantity>15</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>5</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>12</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$19.97</freight>
+   <ship_name>Wartian Herkku</ship_name>
+               <ship_country>Finland</ship_country>   <ship_address>Torikatu 38 Oulu 90110 Finland</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Perth Pasties</product_name>
+   <supplier_id>24</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>48 pieces</quantity_per_unit>
+      <units_in_stock>0</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>yes</discontinued>
+   <product_in_stock_cost>0</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10355</order_id>
+      <unit_price>15.60</unit_price>
+   <quantity>25</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>15</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>20</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$41.95</freight>
+   <ship_name>Around the Horn</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>Brook Farm&#13;&#10;Stratford St. Mary Colchester CO7 6JX UK</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Ravioli Angelo</product_name>
+   <supplier_id>26</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>24 - 250 g pkgs.</quantity_per_unit>
+      <units_in_stock>36</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>561.6</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10412</order_id>
+      <unit_price>18.60</unit_price>
+   <quantity>20</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>13</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>15</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$3.77</freight>
+   <ship_name>Wartian Herkku</ship_name>
+               <ship_country>Finland</ship_country>   <ship_address>Torikatu 38 Oulu 90110 Finland</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Tofu</product_name>
+   <supplier_id>6</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>40 - 100 g pkgs.</quantity_per_unit>
+      <units_in_stock>35</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>651</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10417</order_id>
+      <unit_price>10.40</unit_price>
+   <quantity>35</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>16</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>28</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$70.29</freight>
+   <ship_name>Simons bistro</ship_name>
+               <ship_country>Denmark</ship_country>   <ship_address>Vinbæltet 34 København 1734 Denmark</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Original Frankfurter grüne Soße</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>12 boxes</quantity_per_unit>
+      <units_in_stock>32</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>332.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10389</order_id>
+      <unit_price>12.00</unit_price>
+   <quantity>30</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>20</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>24</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$47.42</freight>
+   <ship_name>Bottom-Dollar Markets</ship_name>
+               <ship_country>Canada</ship_country>   <ship_address>23 Tsawassen Blvd. Tsawassen T2F 8M4 Canada</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Outback Lager</product_name>
+   <supplier_id>7</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>24 - 355 ml bottles</quantity_per_unit>
+      <units_in_stock>15</units_in_stock>
+   <units_on_order>10</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>180</product_in_stock_cost>
+   <product_order_cost>120</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10380</order_id>
+      <unit_price>12.00</unit_price>
+   <quantity>30</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>12</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>16</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$35.03</freight>
+   <ship_name>Hungry Owl All-Night Grocers</ship_name>
+               <ship_country>Ireland</ship_country>   <ship_address>8 Johnstown Road Cork  Ireland</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Outback Lager</product_name>
+   <supplier_id>7</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>24 - 355 ml bottles</quantity_per_unit>
+      <units_in_stock>15</units_in_stock>
+   <units_on_order>10</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>180</product_in_stock_cost>
+   <product_order_cost>120</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10379</order_id>
+      <unit_price>16.80</unit_price>
+   <quantity>20</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>11</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>13</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$45.03</freight>
+   <ship_name>Que Delícia</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Rua da Panificadora, 12 Rio de Janeiro 02389-673 Brazil</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Louisiana Fiery Hot Pepper Sauce</product_name>
+   <supplier_id>2</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>32 - 8 oz bottles</quantity_per_unit>
+      <units_in_stock>76</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1276.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10393</order_id>
+      <unit_price>10.00</unit_price>
+   <quantity>32</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>25</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>3</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$126.56</freight>
+   <ship_name>Save-a-lot Markets</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>187 Suffolk Ln. Boise 83720 USA</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Gorgonzola Telino</product_name>
+   <supplier_id>14</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>12 - 100 g pkgs</quantity_per_unit>
+      <units_in_stock>0</units_in_stock>
+   <units_on_order>70</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>0</product_in_stock_cost>
+   <product_order_cost>700</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10416</order_id>
+      <unit_price>15.60</unit_price>
+   <quantity>20</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>16</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>27</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$22.72</freight>
+   <ship_name>Wartian Herkku</ship_name>
+               <ship_country>Finland</ship_country>   <ship_address>Torikatu 38 Oulu 90110 Finland</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Ravioli Angelo</product_name>
+   <supplier_id>26</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>24 - 250 g pkgs.</quantity_per_unit>
+      <units_in_stock>36</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>561.6</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10358</order_id>
+      <unit_price>15.20</unit_price>
+   <quantity>20</quantity>
+   <discount>0.05</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>20</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>27</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$19.64</freight>
+   <ship_name>La maison d'Asie</ship_name>
+               <ship_country>France</ship_country>   <ship_address>1 rue Alsace-Lorraine Toulouse 31000 France</ship_address>
+   <employee_id>5</employee_id>
+   <name>Buchanan Steven</name>
+<last_name>Buchanan</last_name>
+   <first_name>Steven</first_name>
+         <birth_day>3</birth_day>
+<birth_month>4</birth_month>
+<birth_year>1955</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>14 Garrett Hill</address>
+   <city>London</city>
+   <region/>
+   <postal_code>SW1 8JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-4848</employee_phone>            
+   <emp_address>14 Garrett Hill London  SW1 8JR UK</emp_address>
+      <product_name>Inlagd Sill</product_name>
+   <supplier_id>17</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>24 - 250 g  jars</quantity_per_unit>
+      <units_in_stock>112</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1702.4</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10424</order_id>
+      <unit_price>10.00</unit_price>
+   <quantity>30</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>23</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>27</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$370.61</freight>
+   <ship_name>Mère Paillarde</ship_name>
+               <ship_country>Canada</ship_country>   <ship_address>43 rue St. Laurent Montréal H1J 1C3 Canada</ship_address>
+   <employee_id>7</employee_id>
+   <name>King Robert</name>
+<last_name>King</last_name>
+   <first_name>Robert</first_name>
+         <birth_day>5</birth_day>
+<birth_month>29</birth_month>
+<birth_year>1960</birth_year>
+   <hire_day>1</hire_day>
+<hire_month>2</hire_month>
+<hire_year>1994</hire_year>
+   <address>Edgeham Hollow&#13;&#10;Winchester Way</address>
+   <city>London</city>
+   <region/>
+   <postal_code>RG1 9SP</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-5598</employee_phone>            
+   <emp_address>Edgeham Hollow&#13;&#10;Winchester Way London  RG1 9SP UK</emp_address>
+      <product_name>Scottish Longbreads</product_name>
+   <supplier_id>8</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>10 boxes x 8 pieces</quantity_per_unit>
+      <units_in_stock>6</units_in_stock>
+   <units_on_order>10</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>60</product_in_stock_cost>
+   <product_order_cost>100</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10425</order_id>
+      <unit_price>14.40</unit_price>
+   <quantity>20</quantity>
+   <discount>0.25</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>24</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>14</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$7.93</freight>
+   <ship_name>La maison d'Asie</ship_name>
+               <ship_country>France</ship_country>   <ship_address>1 rue Alsace-Lorraine Toulouse 31000 France</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Lakkalikööri</product_name>
+   <supplier_id>23</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>500 ml</quantity_per_unit>
+      <units_in_stock>57</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>820.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10377</order_id>
+      <unit_price>14.40</unit_price>
+   <quantity>20</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>9</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>13</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$22.21</freight>
+   <ship_name>Seven Seas Imports</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>90 Wadhurst Rd. London OX15 4NB UK</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Chartreuse verte</product_name>
+   <supplier_id>18</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>750 cc per bottle</quantity_per_unit>
+      <units_in_stock>69</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>993.6</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10435</order_id>
+      <unit_price>27.80</unit_price>
+   <quantity>10</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>4</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>7</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$9.21</freight>
+   <ship_name>Consolidated Holdings</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>Berkeley Gardens&#13;&#10;12  Brewery  London WX1 6LT UK</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Mozzarella di Giovanni</product_name>
+   <supplier_id>14</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>24 - 200 g pkgs.</quantity_per_unit>
+      <units_in_stock>14</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>389.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10434</order_id>
+      <unit_price>14.40</unit_price>
+   <quantity>18</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>3</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>13</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$17.92</freight>
+   <ship_name>Folk och fä HB</ship_name>
+               <ship_country>Sweden</ship_country>   <ship_address>Åkergatan 24 Bräcke S-844 67 Sweden</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Lakkalikööri</product_name>
+   <supplier_id>23</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>500 ml</quantity_per_unit>
+      <units_in_stock>57</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>820.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10407</order_id>
+      <unit_price>17.20</unit_price>
+   <quantity>15</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>7</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>30</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$91.48</freight>
+   <ship_name>Ottilies Käseladen</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Mehrheimerstr. 369 Köln 50739 Germany</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Fløtemysost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 - 500 g pkgs.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>447.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10387</order_id>
+      <unit_price>17.20</unit_price>
+   <quantity>15</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>18</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>20</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$93.63</freight>
+   <ship_name>Santé Gourmet</ship_name>
+               <ship_country>Norway</ship_country>   <ship_address>Erling Skakkes gate 78 Stavern 4110 Norway</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Fløtemysost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 - 500 g pkgs.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>447.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10439</order_id>
+      <unit_price>8.00</unit_price>
+   <quantity>30</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>7</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>10</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$4.07</freight>
+   <ship_name>Mère Paillarde</ship_name>
+               <ship_country>Canada</ship_country>   <ship_address>43 rue St. Laurent Montréal H1J 1C3 Canada</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Longlife Tofu</product_name>
+   <supplier_id>4</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>4</units_in_stock>
+   <units_on_order>20</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>32</product_in_stock_cost>
+   <product_order_cost>160</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10420</order_id>
+      <unit_price>12.00</unit_price>
+   <quantity>20</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>21</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>27</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$44.12</freight>
+   <ship_name>Wellington Importadora</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Rua do Mercado, 12 Resende 08737-363 Brazil</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Röd Kaviar</product_name>
+   <supplier_id>17</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>24 - 150 g jars</quantity_per_unit>
+      <units_in_stock>101</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1212</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10432</order_id>
+      <unit_price>5.90</unit_price>
+   <quantity>40</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>31</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>7</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$4.34</freight>
+   <ship_name>Split Rail Beer &amp; Ale</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>P.O. Box 555 Lander 82520 USA</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Tourtière</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>16 pies</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>123.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10438</order_id>
+      <unit_price>15.60</unit_price>
+   <quantity>15</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>6</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>14</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$8.24</freight>
+   <ship_name>Toms Spezialitäten</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Luisenstr. 48 Münster 44087 Germany</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Ravioli Angelo</product_name>
+   <supplier_id>26</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>24 - 250 g pkgs.</quantity_per_unit>
+      <units_in_stock>36</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>561.6</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10444</order_id>
+      <unit_price>7.70</unit_price>
+   <quantity>30</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>12</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>21</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$3.50</freight>
+   <ship_name>Berglunds snabbköp</ship_name>
+               <ship_country>Sweden</ship_country>   <ship_address>Berguvsvägen  8 Luleå S-958 22 Sweden</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Jack's New England Clam Chowder</product_name>
+   <supplier_id>19</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>12 - 12 oz cans</quantity_per_unit>
+      <units_in_stock>85</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>654.5</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10395</order_id>
+      <unit_price>28.80</unit_price>
+   <quantity>8</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>26</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>3</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$184.41</freight>
+   <ship_name>HILARIÓN-Abastos</ship_name>
+               <ship_country>Venezuela</ship_country>   <ship_address>Carrera 22 con Ave. Carlos Soublette #8-35 San Cristóbal 5022 Venezuela</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Gudbrandsdalsost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 kg pkg.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>748.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10431</order_id>
+      <unit_price>7.60</unit_price>
+   <quantity>30</quantity>
+   <discount>0.25</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>30</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>7</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$44.17</freight>
+   <ship_name>Bottom-Dollar Markets</ship_name>
+               <ship_country>Canada</ship_country>   <ship_address>23 Tsawassen Blvd. Tsawassen T2F 8M4 Canada</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Zaanse koeken</product_name>
+   <supplier_id>22</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>10 - 4 oz boxes</quantity_per_unit>
+      <units_in_stock>36</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>273.6</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10357</order_id>
+      <unit_price>27.20</unit_price>
+   <quantity>8</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>19</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>2</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$34.88</freight>
+   <ship_name>LILA-Supermercado</ship_name>
+               <ship_country>Venezuela</ship_country>   <ship_address>Carrera 52 con Ave. Bolívar #65-98 Llano Largo Barquisimeto 3508 Venezuela</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Camembert Pierrot</product_name>
+   <supplier_id>28</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>15 - 300 g rounds</quantity_per_unit>
+      <units_in_stock>19</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>516.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10413</order_id>
+      <unit_price>14.40</unit_price>
+   <quantity>14</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>14</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>16</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$95.66</freight>
+   <ship_name>La maison d'Asie</ship_name>
+               <ship_country>France</ship_country>   <ship_address>1 rue Alsace-Lorraine Toulouse 31000 France</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Lakkalikööri</product_name>
+   <supplier_id>23</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>500 ml</quantity_per_unit>
+      <units_in_stock>57</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>820.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10428</order_id>
+      <unit_price>9.60</unit_price>
+   <quantity>20</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>28</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>4</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$11.09</freight>
+   <ship_name>Reggiani Caseifici</ship_name>
+               <ship_country>Italy</ship_country>   <ship_address>Strada Provinciale 124 Reggio Emilia 42100 Italy</ship_address>
+   <employee_id>7</employee_id>
+   <name>King Robert</name>
+<last_name>King</last_name>
+   <first_name>Robert</first_name>
+         <birth_day>5</birth_day>
+<birth_month>29</birth_month>
+<birth_year>1960</birth_year>
+   <hire_day>1</hire_day>
+<hire_month>2</hire_month>
+<hire_year>1994</hire_year>
+   <address>Edgeham Hollow&#13;&#10;Winchester Way</address>
+   <city>London</city>
+   <region/>
+   <postal_code>RG1 9SP</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-5598</employee_phone>            
+   <emp_address>Edgeham Hollow&#13;&#10;Winchester Way London  RG1 9SP UK</emp_address>
+      <product_name>Spegesild</product_name>
+   <supplier_id>21</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>4 - 450 g glasses</quantity_per_unit>
+      <units_in_stock>95</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>912</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10426</order_id>
+      <unit_price>26.60</unit_price>
+   <quantity>7</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>27</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>6</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$18.69</freight>
+   <ship_name>Galería del gastronómo</ship_name>
+               <ship_country>Spain</ship_country>   <ship_address>Rambla de Cataluña, 23 Barcelona 8022 Spain</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Wimmers gute Semmelknödel</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>20 bags x 4 pieces</quantity_per_unit>
+      <units_in_stock>22</units_in_stock>
+   <units_on_order>80</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>585.2</product_in_stock_cost>
+   <product_order_cost>2128</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10348</order_id>
+      <unit_price>7.20</unit_price>
+   <quantity>25</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>7</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>15</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$0.78</freight>
+   <ship_name>Die Wandernde Kuh</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Adenauerallee 900 Stuttgart 70563 Germany</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Tunnbröd</product_name>
+   <supplier_id>9</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>12 - 250 g pkgs.</quantity_per_unit>
+      <units_in_stock>61</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>25</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>439.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10363</order_id>
+      <unit_price>14.40</unit_price>
+   <quantity>12</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>26</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>4</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$30.54</freight>
+   <ship_name>Drachenblut Delikatessen</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Walserweg 21 Aachen 52066 Germany</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Lakkalikööri</product_name>
+   <supplier_id>23</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>500 ml</quantity_per_unit>
+      <units_in_stock>57</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>820.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10351</order_id>
+      <unit_price>16.80</unit_price>
+   <quantity>10</quantity>
+   <discount>0.05</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>11</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>20</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$162.33</freight>
+   <ship_name>Ernst Handel</ship_name>
+               <ship_country>Austria</ship_country>   <ship_address>Kirchgasse 6 Graz 8010 Austria</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Louisiana Fiery Hot Pepper Sauce</product_name>
+   <supplier_id>2</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>32 - 8 oz bottles</quantity_per_unit>
+      <units_in_stock>76</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1276.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10360</order_id>
+      <unit_price>5.90</unit_price>
+   <quantity>28</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>22</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>2</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$131.70</freight>
+   <ship_name>Blondel père et fils</ship_name>
+               <ship_country>France</ship_country>   <ship_address>24, place Kléber Strasbourg 67000 France</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Tourtière</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>16 pies</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>123.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10370</order_id>
+      <unit_price>8.00</unit_price>
+   <quantity>20</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>3</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>27</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$1.17</freight>
+   <ship_name>Chop-suey Chinese</ship_name>
+               <ship_country>Switzerland</ship_country>   <ship_address>Hauptstr. 31 Bern 3012 Switzerland</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Longlife Tofu</product_name>
+   <supplier_id>4</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>4</units_in_stock>
+   <units_on_order>20</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>32</product_in_stock_cost>
+   <product_order_cost>160</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10374</order_id>
+      <unit_price>10.60</unit_price>
+   <quantity>15</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>5</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>9</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$3.94</freight>
+   <ship_name>Wolski Zajazd</ship_name>
+               <ship_country>Poland</ship_country>   <ship_address>ul. Filtrowa 68 Warszawa 01-012 Poland</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Escargots de Bourgogne</product_name>
+   <supplier_id>27</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>24 pieces</quantity_per_unit>
+      <units_in_stock>62</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>657.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10436</order_id>
+      <unit_price>6.20</unit_price>
+   <quantity>24</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>5</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>11</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$156.66</freight>
+   <ship_name>Blondel père et fils</ship_name>
+               <ship_country>France</ship_country>   <ship_address>24, place Kléber Strasbourg 67000 France</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Rhönbräu Klosterbier</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>24 - 0.5 l bottles</quantity_per_unit>
+      <units_in_stock>125</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>25</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>775</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10399</order_id>
+      <unit_price>10.40</unit_price>
+   <quantity>14</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>31</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>8</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$27.36</freight>
+   <ship_name>Vaffeljernet</ship_name>
+               <ship_country>Denmark</ship_country>   <ship_address>Smagsløget 45 Århus 8200 Denmark</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Original Frankfurter grüne Soße</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>12 boxes</quantity_per_unit>
+      <units_in_stock>32</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>332.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10362</order_id>
+      <unit_price>5.90</unit_price>
+   <quantity>24</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>25</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>28</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$96.04</freight>
+   <ship_name>Bon app'</ship_name>
+               <ship_country>France</ship_country>   <ship_address>12, rue des Bouchers Marseille 13008 France</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Tourtière</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>16 pies</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>123.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10349</order_id>
+      <unit_price>5.90</unit_price>
+   <quantity>24</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>8</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>15</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$8.63</freight>
+   <ship_name>Split Rail Beer &amp; Ale</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>P.O. Box 555 Lander 82520 USA</ship_address>
+   <employee_id>7</employee_id>
+   <name>King Robert</name>
+<last_name>King</last_name>
+   <first_name>Robert</first_name>
+         <birth_day>5</birth_day>
+<birth_month>29</birth_month>
+<birth_year>1960</birth_year>
+   <hire_day>1</hire_day>
+<hire_month>2</hire_month>
+<hire_year>1994</hire_year>
+   <address>Edgeham Hollow&#13;&#10;Winchester Way</address>
+   <city>London</city>
+   <region/>
+   <postal_code>RG1 9SP</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-5598</employee_phone>            
+   <emp_address>Edgeham Hollow&#13;&#10;Winchester Way London  RG1 9SP UK</emp_address>
+      <product_name>Tourtière</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>16 pies</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>123.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10418</order_id>
+      <unit_price>8.00</unit_price>
+   <quantity>15</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>17</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>24</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$17.55</freight>
+   <ship_name>QUICK-Stop</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Taucherstraße 10 Cunewalde 01307 Germany</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Longlife Tofu</product_name>
+   <supplier_id>4</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>4</units_in_stock>
+   <units_on_order>20</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>32</product_in_stock_cost>
+   <product_order_cost>160</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10352</order_id>
+      <unit_price>5.90</unit_price>
+   <quantity>20</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>12</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>11</shipped_day>
+<shipped_month>18</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$1.30</freight>
+   <ship_name>Furia Bacalhau e Frutos do Mar</ship_name>
+               <ship_country>Portugal</ship_country>   <ship_address>Jardim das rosas n. 32 Lisboa 1675 Portugal</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Tourtière</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>16 pies</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>123.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10386</order_id>
+      <unit_price>11.20</unit_price>
+   <quantity>10</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>18</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>25</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$13.99</freight>
+   <ship_name>Familia Arquibaldo</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Rua Orós, 92 São Paulo 05442-030 Brazil</ship_address>
+   <employee_id>9</employee_id>
+   <name>Dodsworth Anne</name>
+<last_name>Dodsworth</last_name>
+   <first_name>Anne</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1969</birth_year>
+   <hire_day>11</hire_day>
+<hire_month>15</hire_month>
+<hire_year>1994</hire_year>
+   <address>7 Houndstooth Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>WG2 7LT</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-4444</employee_phone>            
+   <emp_address>7 Houndstooth Rd. London  WG2 7LT UK</emp_address>
+      <product_name>Sasquatch Ale</product_name>
+   <supplier_id>16</supplier_id>
+   <category_name>beverages</category_name>
+   <quantity_per_unit>24 - 12 oz bottles</quantity_per_unit>
+      <units_in_stock>111</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1243.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10381</order_id>
+      <unit_price>8.00</unit_price>
+   <quantity>14</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>12</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>13</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$7.99</freight>
+   <ship_name>LILA-Supermercado</ship_name>
+               <ship_country>Venezuela</ship_country>   <ship_address>Carrera 52 con Ave. Bolívar #65-98 Llano Largo Barquisimeto 3508 Venezuela</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Longlife Tofu</product_name>
+   <supplier_id>4</supplier_id>
+   <category_name>produce</category_name>
+   <quantity_per_unit>5 kg pkg.</quantity_per_unit>
+      <units_in_stock>4</units_in_stock>
+   <units_on_order>20</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>32</product_in_stock_cost>
+   <product_order_cost>160</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10421</order_id>
+      <unit_price>10.40</unit_price>
+   <quantity>10</quantity>
+   <discount>0.15</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>21</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>27</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$99.23</freight>
+   <ship_name>Que Delícia</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Rua da Panificadora, 12 Rio de Janeiro 02389-673 Brazil</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Original Frankfurter grüne Soße</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>12 boxes</quantity_per_unit>
+      <units_in_stock>32</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>332.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10378</order_id>
+      <unit_price>17.20</unit_price>
+   <quantity>6</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>10</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>19</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$5.44</freight>
+   <ship_name>Folk och fä HB</ship_name>
+               <ship_country>Sweden</ship_country>   <ship_address>Åkergatan 24 Bräcke S-844 67 Sweden</ship_address>
+   <employee_id>5</employee_id>
+   <name>Buchanan Steven</name>
+<last_name>Buchanan</last_name>
+   <first_name>Steven</first_name>
+         <birth_day>3</birth_day>
+<birth_month>4</birth_month>
+<birth_year>1955</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>14 Garrett Hill</address>
+   <city>London</city>
+   <region/>
+   <postal_code>SW1 8JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-4848</employee_phone>            
+   <emp_address>14 Garrett Hill London  SW1 8JR UK</emp_address>
+      <product_name>Fløtemysost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 - 500 g pkgs.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>447.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10414</order_id>
+      <unit_price>2.00</unit_price>
+   <quantity>50</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>14</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>17</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$21.48</freight>
+   <ship_name>Familia Arquibaldo</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Rua Orós, 92 São Paulo 05442-030 Brazil</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Geitost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>500 g</quantity_per_unit>
+      <units_in_stock>112</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>224</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10409</order_id>
+      <unit_price>8.00</unit_price>
+   <quantity>12</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>9</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>14</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$29.83</freight>
+   <ship_name>Océano Atlántico Ltda.</ship_name>
+               <ship_country>Argentina</ship_country>   <ship_address>Ing. Gustavo Moncada 8585&#13;&#10;Piso 20-A Buenos Aires 1010 Argentina</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Sir Rodney's Scones</product_name>
+   <supplier_id>8</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>24 pkgs. x 4 pieces</quantity_per_unit>
+      <units_in_stock>3</units_in_stock>
+   <units_on_order>40</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>24</product_in_stock_cost>
+   <product_order_cost>320</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10371</order_id>
+      <unit_price>15.20</unit_price>
+   <quantity>6</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>3</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>24</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$0.45</freight>
+   <ship_name>La maison d'Asie</ship_name>
+               <ship_country>France</ship_country>   <ship_address>1 rue Alsace-Lorraine Toulouse 31000 France</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Inlagd Sill</product_name>
+   <supplier_id>17</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>24 - 250 g  jars</quantity_per_unit>
+      <units_in_stock>112</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1702.4</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10445</order_id>
+      <unit_price>5.90</unit_price>
+   <quantity>15</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>13</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>20</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$9.30</freight>
+   <ship_name>Berglunds snabbköp</ship_name>
+               <ship_country>Sweden</ship_country>   <ship_address>Berguvsvägen  8 Luleå S-958 22 Sweden</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Tourtière</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>16 pies</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>123.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10391</order_id>
+      <unit_price>4.80</unit_price>
+   <quantity>18</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>23</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>31</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$5.45</freight>
+   <ship_name>Drachenblut Delikatessen</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Walserweg 21 Aachen 52066 Germany</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Konbu</product_name>
+   <supplier_id>6</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>2 kg box</quantity_per_unit>
+      <units_in_stock>24</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>5</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>115.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10364</order_id>
+      <unit_price>17.20</unit_price>
+   <quantity>5</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>26</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>4</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$71.97</freight>
+   <ship_name>Eastern Connection</ship_name>
+               <ship_country>UK</ship_country>   <ship_address>35 King George London WX3 6FW UK</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Fløtemysost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 - 500 g pkgs.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>447.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10446</order_id>
+      <unit_price>5.60</unit_price>
+   <quantity>15</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>14</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>2</shipped_day>
+<shipped_month>19</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$14.68</freight>
+   <ship_name>Toms Spezialitäten</ship_name>
+               <ship_country>Germany</ship_country>   <ship_address>Luisenstr. 48 Münster 44087 Germany</ship_address>
+   <employee_id>6</employee_id>
+   <name>Suyama Michael</name>
+<last_name>Suyama</last_name>
+   <first_name>Michael</first_name>
+         <birth_day>7</birth_day>
+<birth_month>2</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>10</hire_day>
+<hire_month>17</hire_month>
+<hire_year>1993</hire_year>
+   <address>Coventry House&#13;&#10;Miner Rd.</address>
+   <city>London</city>
+   <region/>
+   <postal_code>EC2 7JR</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-7773</employee_phone>            
+   <emp_address>Coventry House&#13;&#10;Miner Rd. London  EC2 7JR UK</emp_address>
+      <product_name>Filo Mix</product_name>
+   <supplier_id>24</supplier_id>
+   <category_name>grains_cereals</category_name>
+   <quantity_per_unit>16 - 2 kg boxes</quantity_per_unit>
+      <units_in_stock>38</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>25</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>212.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10385</order_id>
+      <unit_price>10.00</unit_price>
+   <quantity>8</quantity>
+   <discount>0.20</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>17</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>23</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$30.96</freight>
+   <ship_name>Split Rail Beer &amp; Ale</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>P.O. Box 555 Lander 82520 USA</ship_address>
+   <employee_id>1</employee_id>
+   <name>Davolio Nancy</name>
+<last_name>Davolio</last_name>
+   <first_name>Nancy</first_name>
+         <birth_day>12</birth_day>
+<birth_month>8</birth_month>
+<birth_year>1968</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>507 - 20th Ave. E.&#13;&#10;Apt. 2A</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98122</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9857</employee_phone>            
+   <emp_address>507 - 20th Ave. E.&#13;&#10;Apt. 2A Seattle WA 98122 USA</emp_address>
+      <product_name>Scottish Longbreads</product_name>
+   <supplier_id>8</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>10 boxes x 8 pieces</quantity_per_unit>
+      <units_in_stock>6</units_in_stock>
+   <units_on_order>10</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>60</product_in_stock_cost>
+   <product_order_cost>100</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10367</order_id>
+      <unit_price>10.40</unit_price>
+   <quantity>7</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>28</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>2</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>Federal_Shipping</ship_via>
+   <freight>$13.55</freight>
+   <ship_name>Vaffeljernet</ship_name>
+               <ship_country>Denmark</ship_country>   <ship_address>Smagsløget 45 Århus 8200 Denmark</ship_address>
+   <employee_id>7</employee_id>
+   <name>King Robert</name>
+<last_name>King</last_name>
+   <first_name>Robert</first_name>
+         <birth_day>5</birth_day>
+<birth_month>29</birth_month>
+<birth_year>1960</birth_year>
+   <hire_day>1</hire_day>
+<hire_month>2</hire_month>
+<hire_year>1994</hire_year>
+   <address>Edgeham Hollow&#13;&#10;Winchester Way</address>
+   <city>London</city>
+   <region/>
+   <postal_code>RG1 9SP</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-5598</employee_phone>            
+   <emp_address>Edgeham Hollow&#13;&#10;Winchester Way London  RG1 9SP UK</emp_address>
+      <product_name>Original Frankfurter grüne Soße</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>12 boxes</quantity_per_unit>
+      <units_in_stock>32</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>332.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10375</order_id>
+      <unit_price>5.90</unit_price>
+   <quantity>10</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>12</order_day>
+<order_month>6</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>9</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$20.12</freight>
+   <ship_name>Hungry Coyote Import Store</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>City Center Plaza&#13;&#10;516 Main St. Elgin 97827 USA</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Tourtière</product_name>
+   <supplier_id>25</supplier_id>
+   <category_name>meat_poultry</category_name>
+   <quantity_per_unit>16 pies</quantity_per_unit>
+      <units_in_stock>21</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>10</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>123.9</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10366</order_id>
+      <unit_price>10.40</unit_price>
+   <quantity>5</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>11</order_day>
+<order_month>28</order_month>
+<order_year>1996</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>12</shipped_day>
+<shipped_month>30</shipped_month>
+<shipped_year>1996</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$10.14</freight>
+   <ship_name>Galería del gastronómo</ship_name>
+               <ship_country>Spain</ship_country>   <ship_address>Rambla de Cataluña, 23 Barcelona 8022 Spain</ship_address>
+   <employee_id>8</employee_id>
+   <name>Callahan Laura</name>
+<last_name>Callahan</last_name>
+   <first_name>Laura</first_name>
+         <birth_day>1</birth_day>
+<birth_month>9</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>3</hire_day>
+<hire_month>5</hire_month>
+<hire_year>1994</hire_year>
+   <address>4726 - 11th Ave. N.E.</address>
+   <city>Seattle</city>
+   <region>WA</region>
+   <postal_code>98105</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-1189</employee_phone>            
+   <emp_address>4726 - 11th Ave. N.E. Seattle WA 98105 USA</emp_address>
+      <product_name>Original Frankfurter grüne Soße</product_name>
+   <supplier_id>12</supplier_id>
+   <category_name>condiments</category_name>
+   <quantity_per_unit>12 boxes</quantity_per_unit>
+      <units_in_stock>32</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>15</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>332.8</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10422</order_id>
+      <unit_price>24.90</unit_price>
+   <quantity>2</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>22</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>31</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$3.02</freight>
+   <ship_name>Franchi S.p.A.</ship_name>
+               <ship_country>Italy</ship_country>   <ship_address>Via Monte Bianco 34 Torino 10100 Italy</ship_address>
+   <employee_id>2</employee_id>
+   <name>Fuller Andrew</name>
+<last_name>Fuller</last_name>
+   <first_name>Andrew</first_name>
+         <birth_day>2</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1952</birth_year>
+   <hire_day>8</hire_day>
+<hire_month>14</hire_month>
+<hire_year>1992</hire_year>
+   <address>908 W. Capital Way</address>
+   <city>Tacoma</city>
+   <region>WA</region>
+   <postal_code>98401</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-9482</employee_phone>            
+   <emp_address>908 W. Capital Way Tacoma WA 98401 USA</emp_address>
+      <product_name>Gumbär Gummibärchen</product_name>
+   <supplier_id>11</supplier_id>
+   <category_name>confections</category_name>
+   <quantity_per_unit>100 - 250 g bags</quantity_per_unit>
+      <units_in_stock>15</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>373.5</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10415</order_id>
+      <unit_price>2.00</unit_price>
+   <quantity>20</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>15</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>24</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$0.20</freight>
+   <ship_name>Hungry Coyote Import Store</ship_name>
+               <ship_country>USA</ship_country>   <ship_address>City Center Plaza&#13;&#10;516 Main St. Elgin 97827 USA</ship_address>
+   <employee_id>3</employee_id>
+   <name>Leverling Janet</name>
+<last_name>Leverling</last_name>
+   <first_name>Janet</first_name>
+         <birth_day>8</birth_day>
+<birth_month>30</birth_month>
+<birth_year>1963</birth_year>
+   <hire_day>4</hire_day>
+<hire_month>1</hire_month>
+<hire_year>1992</hire_year>
+   <address>722 Moss Bay Blvd.</address>
+   <city>Kirkland</city>
+   <region>WA</region>
+   <postal_code>98033</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-3412</employee_phone>            
+   <emp_address>722 Moss Bay Blvd. Kirkland WA 98033 USA</emp_address>
+      <product_name>Geitost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>500 g</quantity_per_unit>
+      <units_in_stock>112</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>20</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>224</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10447</order_id>
+      <unit_price>17.20</unit_price>
+   <quantity>2</quantity>
+   <discount>0.00</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>2</order_day>
+<order_month>14</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>3</shipped_day>
+<shipped_month>7</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>United_Package</ship_via>
+   <freight>$68.66</freight>
+   <ship_name>Ricardo Adocicados</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Av. Copacabana, 267 Rio de Janeiro 02389-890 Brazil</ship_address>
+   <employee_id>4</employee_id>
+   <name>Peacock Margaret</name>
+<last_name>Peacock</last_name>
+   <first_name>Margaret</first_name>
+         <birth_day>9</birth_day>
+<birth_month>19</birth_month>
+<birth_year>1958</birth_year>
+   <hire_day>5</hire_day>
+<hire_month>3</hire_month>
+<hire_year>1993</hire_year>
+   <address>4110 Old Redmond Rd.</address>
+   <city>Redmond</city>
+   <region>WA</region>
+   <postal_code>98052</postal_code>
+   <country>USA</country>
+   <employee_phone>(206) 555-8122</employee_phone>            
+   <emp_address>4110 Old Redmond Rd. Redmond WA 98052 USA</emp_address>
+      <product_name>Fløtemysost</product_name>
+   <supplier_id>15</supplier_id>
+   <category_name>dairy_products</category_name>
+   <quantity_per_unit>10 - 500 g pkgs.</quantity_per_unit>
+      <units_in_stock>26</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>0</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>447.2</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+
+<entry>
+   <order_id>10406</order_id>
+      <unit_price>14.70</unit_price>
+   <quantity>2</quantity>
+   <discount>0.10</discount>
+   
+   
+      <customer_id>METHCAPITALS</customer_id>
+      <order_day>1</order_day>
+<order_month>7</order_month>
+<order_year>1997</order_year>
+
+   <required_date>METHDATE</required_date>
+   <shipped_day>1</shipped_day>
+<shipped_month>13</shipped_month>
+<shipped_year>1997</shipped_year>
+
+   <ship_via>Speedy_Express</ship_via>
+   <freight>$108.04</freight>
+   <ship_name>Queen Cozinha</ship_name>
+               <ship_country>Brazil</ship_country>   <ship_address>Alameda dos Canàrios, 891 São Paulo 05487-020 Brazil</ship_address>
+   <employee_id>7</employee_id>
+   <name>King Robert</name>
+<last_name>King</last_name>
+   <first_name>Robert</first_name>
+         <birth_day>5</birth_day>
+<birth_month>29</birth_month>
+<birth_year>1960</birth_year>
+   <hire_day>1</hire_day>
+<hire_month>2</hire_month>
+<hire_year>1994</hire_year>
+   <address>Edgeham Hollow&#13;&#10;Winchester Way</address>
+   <city>London</city>
+   <region/>
+   <postal_code>RG1 9SP</postal_code>
+   <country>UK</country>
+   <employee_phone>(71) 555-5598</employee_phone>            
+   <emp_address>Edgeham Hollow&#13;&#10;Winchester Way London  RG1 9SP UK</emp_address>
+      <product_name>Boston Crab Meat</product_name>
+   <supplier_id>19</supplier_id>
+   <category_name>seafood</category_name>
+   <quantity_per_unit>24 - 4 oz tins</quantity_per_unit>
+      <units_in_stock>123</units_in_stock>
+   <units_on_order>0</units_on_order>
+   <reorder_level>30</reorder_level>
+   <discontinued>no</discontinued>
+   <product_in_stock_cost>1808.1</product_in_stock_cost>
+   <product_order_cost>0</product_order_cost>
+</entry>
+</doc>
