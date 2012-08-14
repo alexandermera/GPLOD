@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/alexandermera/Dropbox/GPLOD/lib/commons-jexl-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/alexandermera/Dropbox/GPLOD/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/alexandermera/Dropbox/GPLOD/lib/jena/jena-2.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/alexandermera/Dropbox/GPLOD/lib/jena/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="/Users/alexandermera/Dropbox/GPLOD/lib/jgap/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="/Users/alexandermera/Dropbox/GPLOD/lib/jgap/jgap.jar"/>
+	<classpathentry kind="lib" path="/Users/alexandermera/Dropbox/GPLOD/lib/jgap/simmetrics-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
