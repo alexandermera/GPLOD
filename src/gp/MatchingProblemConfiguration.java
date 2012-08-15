@@ -22,10 +22,10 @@ public class MatchingProblemConfiguration extends GPConfiguration
 	    // a point score!
 		conf.setGPFitnessEvaluator( new DeltaGPFitnessEvaluator( ) ) ;
 		conf.setMinInitDepth( 5 ) ;
-		conf.setPopulationSize( 100000 ) ;
+		conf.setPopulationSize( 500 ) ;
 		conf.setMaxCrossoverDepth( 2 ) ;
-        conf.setMutationProb( ( float ) 0.8 ) ;
-        conf.setReproductionProb((float) 0.8);
+        conf.setMutationProb( ( float ) 0.02 ) ;
+        conf.setReproductionProb((float) 0.4);
         conf.setCrossoverProb((float)0.6);
         FitnessFunction ff = new FitnessFunction( ) ;
         ff.tipo = tipo ;
